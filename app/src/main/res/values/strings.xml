@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Homework_2_2_2</string>
+    <string name="string_settings">Настройки</string>
+    <string name="string_noteBook">Записная книжка</string>
+    <string name="string_save">Сохранить</string>
+    <string name="string_spinner">спиннер</string>
+    <string name="string_bt_showAdress">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+</resources>
